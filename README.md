@@ -5,7 +5,7 @@
 <a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MrHafizhDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GITHUB-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MrHafizhDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-HAFIZH-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/MrHafizhDev/followers"><img title="Followers" src="https://img.shields.io/github/followers/MrHafizhDev?color=blue&style=flat-square"></a>
 <a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MrHafizhDev/MyProfile?color=red&style=flat-square"></a>
