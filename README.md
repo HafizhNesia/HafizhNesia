@@ -19,7 +19,7 @@
 ## Hits Repoistory
 <p align="left">
 <a href="https://github.com/MrHafizhDev/termuxkey">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=MyProfile&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=termuxkey&theme=dark" />
   </p>
 
   
