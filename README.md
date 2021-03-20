@@ -16,7 +16,7 @@
 
   
   
-## Hits Repoistory
+## Hits Repositories
 <p align="left">
 <a href="https://github.com/MrHafizhDev/termuxkey">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=termuxkey&theme=dark" />
@@ -36,7 +36,7 @@
 - 👋 Halo Saya Mr Hafizh Dev
 - 👀 Lumayan Suka Game
 - 🌱 Cinta Tanaman And Lingkungan
-- 💞️ Please Help Me Dengan Donasi 
+- 💞️ Please Help Me Dengan Cara Berdonasi 
 - 📫 Jika Anda Bingung Tanya Kan Dengan Di Bawah Ini
 - ♠️ [`HELP ME`](https://wa.me/6285741056111)
 
