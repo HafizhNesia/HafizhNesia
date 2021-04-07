@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"></h1>
+<h1 align="center">Welcome To Github Mr Hafizh Dev<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"></h1>
 
 <p align="center">
   <img src="https://i.ibb.co/FwcFVJt/fischl.jpg" />
@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MrHafizhDev&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 <p align="center">
@@ -115,5 +119,3 @@ Langsung Cek List Repo Ya Om 🗿 Tanpa Banyak Bicit Langsung Gaskenn Wkwkk
   <a href="https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw"><img src="https://img.shields.io/badge/YouTube-Doraemon%20Bot%20Official-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw" /></a>
   <a href="mailto:doraemonbotofficial@secret.fyi"><img src="https://img.shields.io/badge/Gmail-doraemonbotofficial@secret.fyi-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:doraemonbotofficial@secret.fyi" /></a>
   <a href="https://instagram.com/hafizh.021y"><img src="https://img.shields.io/instagram/hafizh.021y?logo=twitter&style=for-the-badge" /></a> <br>
-  <img src="https://komarev.com/ghpvc/?username=MrHafizhDev&label=VIEWS&style=flat-square&color=orange" />
-</p>
