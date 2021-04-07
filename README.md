@@ -101,9 +101,6 @@ You can click the Preview link to take a look at your changes.
 - [`TRAKTEER`](https://trakteer.id/doraemonbot)
 - 0838-2170-5664
 
- ## MY APIKEY
-- [`HAFIZHAPI`](https://git.heroku.com/hafizhapikey.git)
-
 ## SPECIAL THANKS TO 
 - ORANG TUA
 - [`HAFIZHDEV`](https://github.com/MrHafizhDev)
@@ -112,11 +109,11 @@ You can click the Preview link to take a look at your changes.
 ## Penutup 
 ```
 Sekian Om Dari Saya Bila Anda Penasaran Dengan Repo Apa Saja Yang Saya Buat
-Langsung Cek List Repo Ya Om 🗿
+Langsung Cek List Repo Ya Om 🗿 Tanpa Banyak Bicit Langsung Gaskenn Wkwkk
 ```
 <p align="center">
   <a href="https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw"><img src="https://img.shields.io/badge/YouTube-Doraemon%20Bot%20Official-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw" /></a>
   <a href="mailto:doraemonbotofficial@secret.fyi"><img src="https://img.shields.io/badge/Gmail-doraemonbotofficial@secret.fyi-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:doraemonbotofficial@secret.fyi" /></a>
-  <a href="https://instagram.com/hafizh.021y"><img src="https://img.shields.io/instagram/hafizh.021y?logo=instagram&style=for-the-badge" /></a> <br>
+  <a href="https://instagram.com/hafizh.021y"><img src="https://img.shields.io/instagram/hafizh.021y?logo=twitter&style=for-the-badge" /></a> <br>
   <img src="https://komarev.com/ghpvc/?username=MrHafizhDev&label=VIEWS&style=flat-square&color=orange" />
 </p>
