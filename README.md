@@ -106,8 +106,8 @@ You can click the Preview link to take a look at your changes.
 - 0838-2170-5664
 
 ## SPECIAL THANKS TO 
-- ORANG TUA
-- [`HAFIZHDEV`](https://github.com/MrHafizhDev)
+- **ORANG TUA**
+- **[`HAFIZHDEV`](https://github.com/MrHafizhDev)**
 - [`AKUN KE 2`](https://github.com/Mrhafizh21)
 
 ## Penutup 
