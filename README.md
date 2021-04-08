@@ -8,7 +8,7 @@
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 👥 Looking for collaborators on [`MrHafizhDevz`](https://github.com/MrHafizhDev/termuxkey)
+- 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
