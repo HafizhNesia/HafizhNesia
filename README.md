@@ -36,7 +36,7 @@
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
-<script 
+<script>
 	swal("Welcome Back Suhu !", "NEW UPDATE? CHECK CHANGELOG", "success") 
 	
 	.then((value) => { 
