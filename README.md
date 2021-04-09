@@ -36,9 +36,7 @@
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="c7b34bb4-d2a3-44e1-a721-8a3ae8acb824";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-	<script>
-	
+<script 
 	swal("Welcome Back Suhu !", "NEW UPDATE? CHECK CHANGELOG", "success") 
 	
 	.then((value) => { 
