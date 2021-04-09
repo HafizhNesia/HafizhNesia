@@ -12,7 +12,7 @@
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
-<---! Coding By Hafizh Ganz Valid No Debat--->
+<!---- Coding By Hafizh Ganz Valid No Debat--->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -86,6 +86,9 @@
     <img
         src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
+
+<!--- Yang Ini Ubah Aja Om Gapapa --->
+
 ## Info Hafizh
 
 - 👋 Halo Saya Mr Hafizh Dev
@@ -94,6 +97,8 @@
 - 💞️ Please Help Me Dengan Cara Berdonasi 
 - 📫 Jika Anda Bingung Tanya Kan Dengan Di Bawah Ini
 - ♠️ [`HELP ME`](https://wa.me/6285741056111)
+
+<!--- End Data --->
 
 <!---
 MrHafizhDev/MrHafizhDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
