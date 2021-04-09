@@ -64,7 +64,7 @@
 <!--- Ini Penting Jangan Diubah Om--->
 
 <p align="center">
-<img src="https://i.ibb.co/Gdx7b97/IMG-20210409-WA0363.jpg" />
+<a href="https://github.com/MrHafizhDev"><img src="https://github-readme-stats.vercel.app/api?username=MrHafizhDev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/MrHafizhDev" width="225" height="225"/>
+<img src="https://i.ibb.co/Gdx7b97/IMG-20210409-WA0363.jpg" />
 </p>
 <p align="center">
 <a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
