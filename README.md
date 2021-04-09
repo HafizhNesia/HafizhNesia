@@ -13,10 +13,12 @@
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
 <!---- Coding By Hafizh Ganz Valid No Debat--->
-
+<!--- Cie Yang Mau Nyolong Logo Xixixi--->
+<!--- Pastikan Sudah Izin Sama @Hafizh Ganz--->
+<!--- And Kasih Credit :)--->
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
@@ -143,4 +145,4 @@ Langsung Cek List Repo Ya Om 🗿 Tanpa Banyak Bicit Langsung Gaskenn Wkwkk
 <!--- End--->
 <!--- End--->
 <!--- End--->
-<!--- End Script Readme--->
+<!--- End Script README.md--->
