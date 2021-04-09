@@ -12,7 +12,8 @@
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
-<---! Coding By Hafizh--->
+<---! Coding By Hafizh Ganz Valid No Debat--->
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -33,6 +34,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MrHafizhDev&label=VIEWS GITHUB PROFILE&style=flat-square&color=orange" />
 </p>
+
+<!--- Ini Penting Jangan Diubah Om--->
 
 <p align="center">
   <a href="https://github.com/MrHafizhDev"><img src="https://github-readme-stats.vercel.app/api?username=MrHafizhDev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
