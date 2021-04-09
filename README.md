@@ -58,7 +58,7 @@
 <!--- Cie Yang Mau Nyolong Izin Dulu Sama Hafizh Om--->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MrHafizhDev&label=VIEWS GITHUB PROFILE&style=flat-square&color=brightgreen" />
+<img src="https://komarev.com/ghpvc/?username=MrHafizhDev&label=VIEWS MR.HAFIZH DEV&style=flat-square&color=brightgreen" />
 </p>
 
 <!--- Ini Penting Jangan Diubah Om--->
