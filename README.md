@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **nothing**.
 
-- 👀 I'm currently focusing on **JavaScript**.
+- 👀 I'm currently focusing on **JavaScript**,**Shell**, And **Python**.
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
