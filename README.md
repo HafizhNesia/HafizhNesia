@@ -86,6 +86,7 @@
     <img
         src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
+<!--- End Data Penting Om --->
 
 <!--- Yang Ini Ubah Aja Om Gapapa --->
 
@@ -128,9 +129,18 @@ You can click the Preview link to take a look at your changes.
 Sekian Om Dari Saya Bila Anda Penasaran Dengan Repo Apa Saja Yang Saya Buat
 Langsung Cek List Repo Ya Om 🗿 Tanpa Banyak Bicit Langsung Gaskenn Wkwkk
 ```
+
+<!--- Jangan Diubah Amsu --->
+<!--- Kasih Credit Gw --->
+<!--- Moga Aja Yang Gk Ngasih Credit Dia Gk Pernah Dikasih Credit--->
+<!--- Amin...--->
+
 <p align="center">
   <a href="https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw"><img src="https://img.shields.io/badge/YouTube-Doraemon%20Bot%20Official-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw" /></a>
   <a href="mailto:doraemonbotofficial@secret.fyi"><img src="https://img.shields.io/badge/Gmail-doraemonbotofficial@secret.fyi-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:doraemonbotofficial@secret.fyi" /></a>
   <a href="https://instagram.com/hafizh.021y"><img src="https://img.shields.io/instagram/hafizh.021y?logo=twitter&style=for-the-badge" /></a> <br>
 
 <!--- End--->
+<!--- End--->
+<!--- End--->
+<!--- End Script Readme--->
