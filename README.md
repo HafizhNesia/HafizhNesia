@@ -80,10 +80,10 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/Gdx7b97/IMG-20210409-WA0363.jpg" />
+<a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img src="https://i.ibb.co/Gdx7b97/IMG-20210409-WA0363.jpg" />
 </p>
 <p align="center">
 <a href="https://github.com/MrHafizhDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-HAFIZH-blue.svg?style=for-the-badge&logo=github"></a>
