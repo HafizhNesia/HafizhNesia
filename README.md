@@ -27,7 +27,7 @@
 <h1 align="center">Welcome To Github MrHafizh<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"></h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/FwcFVJt/fischl.jpg" />
+  <img src="https://i.ibb.co/sVfVTd9/5c3f2111f054.jpg" />
 </p>
 
 - 🌱 I’m currently learning **nothing**.
@@ -35,14 +35,6 @@
 - 👀 I'm currently focusing on **JavaScript** ,**Shell** , And **Python**.
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
-
-<script>
-	swal("Welcome Back Suhu !", "NEW UPDATE? CHECK CHANGELOG", "success") 
-	
-	.then((value) => { 
-	swal("INFORMATION !", "Kalau Iri Atau Apa Tinggal Bilang Developer Web Ini Aja Bro, Kaga Usah Bait Sana Sini Thanks\nBandung 30 - Maret - 2021", "");});
-	
-	</script>
 
 <!---- Coding By Hafizh Ganz Valid No Debat--->
 <!--- Cie Yang Mau Nyolong Logo Xixixi--->
