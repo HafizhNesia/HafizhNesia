@@ -36,6 +36,16 @@
 
 - 👥 Looking for collaborators on [`TermuxKeyByMrHafizh`](https://github.com/MrHafizhDev/termuxkey)
 
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="c7b34bb4-d2a3-44e1-a721-8a3ae8acb824";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+	<script>
+	
+	swal("Welcome Back Suhu !", "NEW UPDATE? CHECK CHANGELOG", "success") 
+	
+	.then((value) => { 
+	swal("INFORMATION !", "Kalau Iri Atau Apa Tinggal Bilang Developer Web Ini Aja Bro, Kaga Usah Bait Sana Sini Thanks\nBandung 30 - Maret - 2021", "");});
+	
+	</script>
+
 <!---- Coding By Hafizh Ganz Valid No Debat--->
 <!--- Cie Yang Mau Nyolong Logo Xixixi--->
 <!--- Pastikan Sudah Izin Sama @Hafizh Ganz--->
