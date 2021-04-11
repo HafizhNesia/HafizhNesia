@@ -123,7 +123,7 @@
 - 🌱 Cinta Tanaman And Lingkungan
 - 💞️ Please Help Me Dengan Cara Berdonasi 
 - 📫 Jika Anda Bingung Tanya Kan Dengan Di Bawah Ini
-- ♠️ [`HELP ME`](https://wa.me/6285741056111)
+- ♠️ [`HELP HUMAN`](https://wa.me/6285741056111)
 
 <!--- End Data --->
 
@@ -135,7 +135,7 @@ You can click the Preview link to take a look at your changes.
 
  ## MEDSOS HAFIZH
 - [`YOUTUBE`](https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw)
-- [`INSTAGRAM`](https://instagram.com/hafizh.021y/)
+- [`INSTAGRAM`](https://instagram.com/hafizh.ganzzz_)
 - [`WHATSAPP`](https://wa.me/6285741056111)
 - [`GITHUB`](https://github.com/MrHafizhDev)
 - [`MY GROUP`](https://chat.whatsapp.com/BlhY5aEfrlw3hMf7DVot59)
@@ -164,7 +164,7 @@ Langsung Cek List Repo Ya Om 🗿 Tanpa Banyak Bicit Langsung Gaskenn Wkwkk
 <p align="center">
   <a href="https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw"><img src="https://img.shields.io/badge/YouTube-Doraemon%20Bot%20Official-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw" /></a>
   <a href="mailto:doraemonbotofficial@secret.fyi"><img src="https://img.shields.io/badge/Gmail-doraemonbotofficial@secret.fyi-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:doraemonbotofficial@secret.fyi" /></a>
-  <a href="https://instagram.com/hafizh.021y"><img src="https://img.shields.io/instagram/hafizh.021y?logo=twitter&style=for-the-badge" /></a> <br>
+  <a href="https://instagram.com/hafizh.ganzzz_"><img src="https://img.shields.io/instagram/hafizh.021y?logo=twitter&style=for-the-badge" /></a> <br>
 
 <!--- End--->
 <!--- End--->
