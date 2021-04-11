@@ -1,7 +1,7 @@
 <!--- Script Punya Hafizh Ganz--->
 <!--- Script Hafizh Ganz--->
 <!--- Subs YT Doraemon Bot Official--->
-<!--- Follow IG @Hafizh.021y--->
+<!--- Follow IG @hafizh.ganzzz_--->
 <!--- Thanks Om Dah Mampir--->
 <!---- Coding By Hafizh Ganz Valid No Debat--->
 <!--- Cie Yang Mau Nyolong Logo Xixixi--->
@@ -82,9 +82,11 @@
 <p align="center">
 <a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<!--- Terserah Mau Ganti Atau Gak--->
 <p align="center">
 <img src="https://i.ibb.co/Gdx7b97/IMG-20210409-WA0363.jpg" />
 </p>
+<!--- End Terserah Mau Ganti Atau Gak--->
 <p align="center">
 <a href="https://github.com/MrHafizhDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-HAFIZH-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
@@ -116,7 +118,7 @@
 
 <!--- Yang Ini Ubah Aja Om Gapapa --->
 
-## Info Hafizh
+## Ingfo
 
 - 👋 Halo Saya Mr Hafizh Dev
 - 👀 Lumayan Suka Game
@@ -128,33 +130,43 @@
 <!--- End Data --->
 
 <!---
+Tobat Yok Om Dah Ramadhan :v
+--->
+<!---
 MrHafizhDev/MrHafizhDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
  ## MEDSOS HAFIZH
-- [`YOUTUBE`](https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw)
-- [`INSTAGRAM`](https://instagram.com/hafizh.ganzzz_)
-- [`WHATSAPP`](https://wa.me/6285741056111)
-- [`GITHUB`](https://github.com/MrHafizhDev)
+- [`YouTube`](https://m.youtube.com/channel/UCEAiLVNeKGtN_0HhLopgOvw)
+- [`Instagram`](https://instagram.com/hafizh.ganzzz_)
+- [`WhatsApp`](https://wa.me/6285741056111)
+- [`GitHub`](https://github.com/MrHafizhDev)
 - [`MY GROUP`](https://chat.whatsapp.com/BlhY5aEfrlw3hMf7DVot59)
 
  ## DONATE ME!
-- [`SAWERIA`](https://saweria.co/doraemonbot)
-- [`TRAKTEER`](https://trakteer.id/doraemonbot)
-- 0838-2170-5664
+- [`Gopay`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+dengan+jumlah+Rp.)
+- [`Pulsa`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+dengan+jumlah+Rp.)
+- [`Dana`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+dengan+jumlah+Rp.)
+
 
 ## SPECIAL THANKS TO 
 - **ORANG TUA**
 - **[`HAFIZHDEV`](https://github.com/MrHafizhDev)**
 - [`AKUN KE 2`](https://github.com/Mrhafizh21)
 
+<!---
+Bebas Lu Mau Ganti Kata Kata Penutup Nya Jadi Kata Kata Lu
+--->
 ## Penutup 
 ```
 Sekian Om Dari Saya Bila Anda Penasaran Dengan Repo Apa Saja Yang Saya Buat
 Langsung Cek List Repo Ya Om 🗿 Tanpa Banyak Bicit Langsung Gaskenn Wkwkk
 ```
+<!---
+End
+--->
 
 <!--- Jangan Diubah Amsu --->
 <!--- Kasih Credit Gw --->
