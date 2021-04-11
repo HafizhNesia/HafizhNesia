@@ -102,7 +102,7 @@
 ## Hits Repositories
 <p align="left">
 <a href="https://github.com/MrHafizhDev/spamwabyhafizhganz">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=spamwabyhafzihganz&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=spamwabyhafizhganz&theme=dark" />
   </p>
 
   
