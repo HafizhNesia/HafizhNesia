@@ -146,9 +146,11 @@ You can click the Preview link to take a look at your changes.
 - [`MY GROUP`](https://chat.whatsapp.com/BlhY5aEfrlw3hMf7DVot59)
 
  ## DONATE ME!
-- [`Gopay`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+dengan+jumlah+Rp.)
-- [`Pulsa`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+dengan+jumlah+Rp.)
-- [`Dana`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+dengan+jumlah+Rp.)
+- [`Gopay`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+pakai+pembayaran+Gopay+dengan+jumlah+Rp.)
+- [`Pulsa`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+pakai+pembayaran+pulsa+dengan+jumlah+Rp.)
+- [`Dana`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+pakai+pembayaran+Dana+dengan+jumlah+Rp.)
+- [`Link Aja`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+pakai+pembayaran+LinkAja+dengan+jumlah+Rp.)
+- [`Your Payment`](https://wa.me/6285741056111?text=Min+saya+mau+donasi+pakai+pembayaran+My+Payment+dengan+jumlah+Rp.)
 
 
 ## SPECIAL THANKS TO 
