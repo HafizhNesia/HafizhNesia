@@ -104,7 +104,10 @@
 <a href="https://github.com/MrHafizhDev/spamwabyhafizhganz">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=spamwabyhafizhganz&theme=dark" />
   </p>
-
+<p align="left">
+<a href="https://github.com/MrHafizhDev/MrHafizhDev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=MrHafizhDev&theme=dark" />
+  </p>
   
   
 ## Coding Yang Selalu Saya Gunakan
